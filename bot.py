@@ -13,8 +13,8 @@ from aiogram.types import (
 )
 
 # ── Config ──────────────────────────────────────────────────────────────────
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"        # от @BotFather
-WEBAPP_URL = "https://YOUR_USERNAME.github.io/oceanbox/"  # твой GitHub Pages URL
+BOT_TOKEN = "8717787422:AAH6IUUesOTxDN67V106OYOesaGfY40aGO8"        # от @BotFather
+WEBAPP_URL = "https://github.com/wl-ksx/tg-bot-oceanbox-test"  # твой GitHub Pages URL
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
